@@ -1,4 +1,4 @@
-# raylib_projects
+# RayLib Projects
 
 ## Things made with RayLib
 
